@@ -63,10 +63,11 @@ This portfolio is created to:
 
 - **GitHub:** https://github.com/sohambhalekar18-bit  
 - **LinkedIn:** https://www.linkedin.com/in/soham-bhalekar-145243331  
-- **Email:** (add your email here)
+- **Email:** sohambhalekar18@gmail.com
 
 ---
 
 ## 📄 License
 
-This project is open-source and intended for personal portfolio use.
+This is a personal portfolio project created by Soham Bhalekar.  
+The source code and design are private and not licensed for reuse, distribution, or modification without permission.
