@@ -4,6 +4,7 @@ import { useState, useEffect } from "react"
 import { Menu, X } from "lucide-react"
 
 const navLinks = [
+  { href: "#hero", label: "Home" },
   { href: "#about", label: "About" },
   { href: "#skills", label: "Skills" },
   { href: "#projects", label: "Projects" },
@@ -34,11 +35,10 @@ export default function Navbar() {
       <nav className="max-w-6xl mx-auto px-6 flex items-center justify-between">
         {/* Logo */}
         <a
-          href="#"
+          href="#hero"
           className="text-lg font-medium tracking-tight text-foreground hover:text-primary transition-colors duration-300"
         >
-          SB
-          <span className="text-primary">.</span>
+          PORTFOLIO<span className="text-primary">.</span>
         </a>
 
         {/* Desktop Navigation */}
