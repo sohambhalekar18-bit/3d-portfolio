@@ -9,26 +9,26 @@ const projects = [
     description:
       "An intelligent travel planning application that uses AI to generate personalized itineraries based on user preferences, budget, and travel dates.",
     tech: ["React", "Firebase", "OpenAI API", "Tailwind CSS"],
-    github: "#",
-    live: "#",
+    github: "https://github.com/sohambhalekar18-bit/smart-trip-planner-ai",
+    live: "https://github.com/sohambhalekar18-bit/smart-trip-planner-ai",
     featured: true,
   },
-  {
-    title: "Smart Resume Builder",
-    description:
-      "A modern resume builder with AI-powered suggestions, multiple templates, and real-time preview. Export to PDF with one click.",
-    tech: ["Next.js", "TypeScript", "Prisma", "GPT-4"],
-    github: "#",
-    live: "#",
-    featured: true,
-  },
+{
+  title: "Smart Proposal Generator",
+  description:
+    "An AI-powered proposal generator designed for Fiverr and Upwork sellers. Instantly creates high-converting, customized proposals based on job descriptions to save time and increase reply rates.",
+  tech: ["AI", "SaaS", "Freelancing", "UI/UX", "Web App"],
+  github: "https://github.com/sohambhalekar18-bit/smart-proposal-generator",
+  live: "https://smart-proposal-generator.vercel.app/",
+  featured: true,
+},
   {
     title: "3D Portfolio Website",
     description:
       "This portfolio itself — featuring subtle 3D graphics, smooth animations, and a clean, professional design built with Three.js and GSAP.",
     tech: ["Next.js", "Three.js", "GSAP", "Tailwind CSS"],
-    github: "#",
-    live: "#",
+    github: "https://github.com/sohambhalekar18-bit/3D-Portfolio-Websites-Free-05",
+    live: "https://space-portfolio-tau-seven.vercel.app/",
     featured: true,
   },
 ]
@@ -146,4 +146,4 @@ export default function Projects() {
       </div>
     </section>
   )
-}
+      }
