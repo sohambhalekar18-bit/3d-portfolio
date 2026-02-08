@@ -83,7 +83,7 @@ export default function Contact() {
 
           {/* View Resume Button (NEW) */}
           <a
-            href="https://drive.google.com/file/d/1i9-JA6qEeObDsg5Eo4hluZZ_2madYncA/view?usp=drivesdk"
+            href="https://drive.google.com/file/d/1RQGelL6KCpiuTlsew5qO3zIglilJF19_/view?usp=drivesdk"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-xl border border-primary/40 text-primary font-medium transition-all duration-300
