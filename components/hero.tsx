@@ -93,7 +93,7 @@ with a strong focus on UI/UX, performance, and usability.
           {/* Buttons */}
           <div className="reveal opacity-0 flex flex-col sm:flex-row items-start gap-4 delay-500">
             <a
-              href="https://drive.google.com/file/d/1RQGelL6KCpiuTlsew5qO3zIglilJF19_/view?usp=drivesdk"
+              href="https://drive.google.com/file/d/18fl3hEs3KLbC58oCtnGOobJD_WwcrUQ7/view?usp=drivesdk"
               target="_blank"
               rel="noopener noreferrer"
               className="group px-8 py-3 bg-primary text-primary-foreground rounded-full text-sm font-medium transition-all duration-300 hover:scale-105 hover:shadow-lg hover:shadow-primary/20 flex items-center gap-2"
